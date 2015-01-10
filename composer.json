@@ -1,6 +1,6 @@
 {
-    "name": 'gremplus/hello',
-    "description": 'For testing purpose project with test',
+    "name": "gremplus/hello",
+    "description": "For testing purpose project with test",
     "require": {
         "php": ">=5.2"
     }
