@@ -3,5 +3,12 @@
     "description": "For testing purpose project with test",
     "require": {
         "php": ">=5.2"
-    }
+    },
+    "license": "Apache License 2.0",
+    "authors": {
+        "name": "gremplus",
+        "email": "gremplus@wp.pl",
+        "role": "developer"
+    },
+    "type": "application"
 }
