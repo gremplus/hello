@@ -15,7 +15,7 @@
     "type": "application",
     "autoload": {
         "psr-4": {
-            "Gremplus\\Hello\\": "gremplus/hello/src/"
+            "Gremplus\\Hello\\": "src/"
         }
     }
 }
