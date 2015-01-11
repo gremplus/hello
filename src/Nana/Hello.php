@@ -1,5 +1,5 @@
 <?php
-namespace \Gremplus\Hello\Nana;
+namespace Gremplus\Hello\Nana;
 class Hello {
     public static function hejho()
     {
