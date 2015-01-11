@@ -12,5 +12,10 @@
             "role": "developer"
         }
     ],
-    "type": "application"
+    "type": "application",
+    "autoload": {
+        "psr-4": {
+            "Gremplus\\Hello\\": "gremplus/hello/src/"
+        }
+    }
 }
